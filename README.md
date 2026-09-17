@@ -111,23 +111,34 @@ These features provide useful context for understanding customer churn patterns.
 
 ## 📸 Project Screenshots
 
-### Exploratory Data Analysis
+### Churn Distribution
 
-![EDA](eda.png)
+![Churn Distribution](churn_distribution.png)
 
-### Churn Analysis
+### Churn by Contract
 
-![Churn Analysis](churn_analysis.png)
+![Churn by Contract](churn_by_contract.png)
 
-### Model Evaluation
+### Churn by Tenure
 
-![Model Evaluation](model_evaluation.png)
+![Churn by Tenure](churn_by_tenure.png)
+
+### Churn by Payment Method
+
+![Churn by Payment Method](churn_by_payment_method.png)
+
+### Churn by Internet Service
+
+![Churn by Internet Service](churn_by_internet_service.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](feature_importance (2).png)
 
-> Screenshot filenames should match the actual files uploaded to this repository.
 
 ## 💡 Business Insights
 
