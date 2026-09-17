@@ -112,33 +112,25 @@ These features provide useful context for understanding customer churn patterns.
 ## 📸 Project Screenshots
 
 ### Churn Distribution
-
-![Churn Distribution](churn_distribution.png)
+![Churn Distribution](./churn_distribution.png)
 
 ### Churn by Contract
-
-![Churn by Contract](churn_by_contract.png)
+![Churn by Contract](./churn_by_contract.png)
 
 ### Churn by Tenure
-
-![Churn by Tenure](churn_by_tenure.png)
+![Churn by Tenure](./churn_by_tenure.png)
 
 ### Churn by Payment Method
-
-![Churn by Payment Method](churn_by_payment_method.png)
+![Churn by Payment Method](./churn_by_payment_method.png)
 
 ### Churn by Internet Service
-
-![Churn by Internet Service](churn_by_internet_service.png)
+![Churn by Internet Service](./churn_by_internet_service.png)
 
 ### Confusion Matrix
-
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](./confusion_matrix.png)
 
 ### Feature Importance
-
-![Feature Importance](feature_importance (2).png)
-
+![Feature Importance](./feature_importance%20%282%29.png)
 
 ## 💡 Business Insights
 
