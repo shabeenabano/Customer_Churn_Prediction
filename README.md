@@ -1,5 +1,6 @@
 # Customer Churn Prediction
 
+
 ## 📌 Project Overview
 
 Customer churn is an important business problem because losing existing customers can affect revenue and long-term growth.
